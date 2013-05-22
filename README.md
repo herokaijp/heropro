@@ -7,4 +7,4 @@
 
 ### サポート情報
 
-* お気づきの点は issues にお寄せください: https://github.com/herokujp/heropro/issues
+* お気づきの点は issues にお寄せください: https://github.com/herokaijp/heropro/issues
